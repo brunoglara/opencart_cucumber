@@ -1,0 +1,191 @@
+19/06/2023 22:42:07.072 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:42:07.194 [main] INFO  stepDefinitions.steps - Provided email
+19/06/2023 22:42:07.293 [main] INFO  stepDefinitions.steps - Provided password
+19/06/2023 22:42:08.158 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:42:08.224 [main] INFO  stepDefinitions.steps - Validating user logged in
+19/06/2023 22:42:08.226 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+19/06/2023 22:42:15.231 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:42:15.327 [main] INFO  stepDefinitions.steps - Provided email
+19/06/2023 22:42:15.463 [main] INFO  stepDefinitions.steps - Provided password
+19/06/2023 22:42:15.961 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:42:16.002 [main] INFO  stepDefinitions.steps - Validating user not logged in
+19/06/2023 22:42:16.003 [main] INFO  stepDefinitions.steps - Scenario Unsuccessful Login with invalid Credentials status ======>PASSED
+19/06/2023 22:42:22.442 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:42:22.550 [main] INFO  stepDefinitions.steps - Provided email
+19/06/2023 22:42:22.645 [main] INFO  stepDefinitions.steps - Provided password
+19/06/2023 22:42:23.510 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:42:23.552 [main] INFO  stepDefinitions.steps - Validating user logged in
+19/06/2023 22:42:23.553 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+19/06/2023 22:42:29.799 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:42:29.915 [main] INFO  stepDefinitions.steps - Provided email
+19/06/2023 22:42:30.022 [main] INFO  stepDefinitions.steps - Provided password
+19/06/2023 22:42:30.897 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:42:30.941 [main] INFO  stepDefinitions.steps - Validating user logged in
+19/06/2023 22:42:30.942 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+19/06/2023 22:42:37.926 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:42:38.061 [main] INFO  stepDefinitions.steps - Provided email
+19/06/2023 22:42:38.196 [main] INFO  stepDefinitions.steps - Provided password
+19/06/2023 22:42:38.732 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:42:38.784 [main] INFO  stepDefinitions.steps - Validating user not logged in
+19/06/2023 22:42:38.785 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+19/06/2023 22:42:45.248 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:42:46.550 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:42:46.592 [main] INFO  stepDefinitions.steps - Validating user not logged in
+19/06/2023 22:42:46.593 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+19/06/2023 22:42:52.782 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:42:53.629 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:42:53.677 [main] INFO  stepDefinitions.steps - Validating user not logged in
+19/06/2023 22:42:53.677 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+19/06/2023 22:43:00.124 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:43:00.882 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:43:00.923 [main] INFO  stepDefinitions.steps - Validating user not logged in
+19/06/2023 22:43:00.924 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+19/06/2023 22:43:07.091 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:43:08.189 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:43:08.229 [main] INFO  stepDefinitions.steps - Validating user logged in
+19/06/2023 22:43:08.231 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+19/06/2023 22:43:14.489 [main] INFO  stepDefinitions.steps - Clicked on my account
+19/06/2023 22:43:15.244 [main] INFO  stepDefinitions.steps - Clicked on login button
+19/06/2023 22:43:15.283 [main] INFO  stepDefinitions.steps - Validating user not logged in
+19/06/2023 22:43:15.284 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 20:04:14.712 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:04:14.863 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:04:14.992 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:04:15.492 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:04:25.527 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>FAILED
+20/06/2023 20:04:32.323 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:04:32.441 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:04:32.551 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:04:33.092 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:04:33.153 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 20:04:33.154 [main] INFO  stepDefinitions.steps - Scenario Unsuccessful Login with invalid Credentials status ======>PASSED
+20/06/2023 20:06:24.086 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:06:24.317 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:06:24.439 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:06:25.310 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:06:25.436 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 20:06:25.439 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+20/06/2023 20:14:11.023 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:14:11.240 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:14:11.352 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:14:12.247 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:14:12.300 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 20:14:12.302 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+20/06/2023 20:14:49.336 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:14:49.488 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:14:49.588 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:14:50.507 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:14:50.572 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 20:14:50.576 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+20/06/2023 20:14:56.938 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:14:57.046 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:14:57.173 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:14:58.049 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:14:58.097 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 20:14:58.100 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+20/06/2023 20:15:06.225 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:15:06.333 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:15:06.400 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:15:06.888 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:15:06.939 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 20:15:06.940 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+20/06/2023 20:15:13.161 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:15:14.497 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:15:14.534 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 20:15:14.535 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 20:15:20.591 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:15:21.313 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:15:21.358 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 20:15:21.359 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 20:15:27.346 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:15:28.283 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:15:28.327 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 20:15:28.328 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 20:15:35.599 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:15:36.719 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:15:36.758 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 20:15:36.759 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 20:15:42.931 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:15:43.662 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:15:43.699 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 20:15:43.700 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 20:21:44.373 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:21:44.494 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:21:44.603 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:21:45.458 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:21:45.521 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 20:21:45.523 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+20/06/2023 20:21:51.763 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:21:51.863 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:21:51.984 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:21:52.477 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:21:52.519 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 20:21:52.520 [main] INFO  stepDefinitions.steps - Scenario Unsuccessful Login with invalid Credentials status ======>PASSED
+20/06/2023 20:22:40.418 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 20:22:40.693 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 20:22:40.792 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 20:22:41.694 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 20:22:41.756 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 20:22:41.759 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+20/06/2023 21:03:16.886 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:03:17.059 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 21:03:17.182 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 21:03:18.061 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:03:18.115 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 21:03:18.118 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+20/06/2023 21:03:54.622 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:03:54.735 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 21:03:54.849 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 21:03:55.732 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:03:55.783 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 21:03:55.785 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+20/06/2023 21:04:58.232 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:04:58.342 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 21:04:58.442 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 21:04:59.322 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:04:59.381 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 21:04:59.384 [main] INFO  stepDefinitions.steps - Scenario Successful Login with Valid Credentials status ======>PASSED
+20/06/2023 21:05:05.675 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:05.779 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 21:05:05.906 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 21:05:06.405 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:06.451 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 21:05:06.452 [main] INFO  stepDefinitions.steps - Scenario Unsuccessful Login with invalid Credentials status ======>PASSED
+20/06/2023 21:05:12.440 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:12.544 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 21:05:12.638 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 21:05:13.510 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:13.556 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 21:05:13.557 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+20/06/2023 21:05:19.905 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:20.017 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 21:05:20.102 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 21:05:21.023 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:21.067 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 21:05:21.068 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+20/06/2023 21:05:27.692 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:27.823 [main] INFO  stepDefinitions.steps - Provided email
+20/06/2023 21:05:27.929 [main] INFO  stepDefinitions.steps - Provided password
+20/06/2023 21:05:28.428 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:28.468 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 21:05:28.468 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven status ======>PASSED
+20/06/2023 21:05:34.758 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:36.079 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:36.123 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 21:05:36.124 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 21:05:43.143 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:43.892 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:43.932 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 21:05:43.933 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 21:05:50.058 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:50.786 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:50.826 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 21:05:50.827 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 21:05:56.932 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:05:58.010 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:05:58.052 [main] INFO  stepDefinitions.steps - Validating user logged in
+20/06/2023 21:05:58.053 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
+20/06/2023 21:06:04.080 [main] INFO  stepDefinitions.steps - Clicked on my account
+20/06/2023 21:06:04.862 [main] INFO  stepDefinitions.steps - Clicked on login button
+20/06/2023 21:06:04.908 [main] INFO  stepDefinitions.steps - Validating user not logged in
+20/06/2023 21:06:04.908 [main] INFO  stepDefinitions.steps - Scenario Login Data Driven Test with Excel status ======>PASSED
