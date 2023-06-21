@@ -20,7 +20,7 @@ import io.cucumber.junit.CucumberOptions;
 				"html:reports/myreport.html", "json:reports/myreport.json",
 				"rerun:target/rerun.txt"}, 
 		dryRun = false,
-		// monochrome = true,
+		 monochrome = true,
 		
 //		tags = "@sanity"						//Scenarios tagged with @sanity
 //		tags = "@regression"						//Scenarios tagged with @regression
